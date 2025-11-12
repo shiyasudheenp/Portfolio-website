@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.html{
+    scroll-behavior: smooth;
+
+}
+/* imp  css varibale declaration */
+.root{
+    --dark-black:#030303;
+    --pure-white:#ffffff;
+    --sky-blue:#0D6EFD;
+    --grey:#686868;
+    --h1-font:7rem;
+    --h2-font:3.2rem;
+    --h3-font:2.8rem;
+    --h4-font:2.4rem;
+    --font-20px:2rem;
+    --h5-font:1.8rem;
+    --p-font:1.6rem;
+    --font-segoe-UI:'segoe UI';
+
+}
+
+/* imp body and common css */
+
+.body{
+   
+
+}
+.dark-black-text{
+    background-color: var(--dark-black);
+}
